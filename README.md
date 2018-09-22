@@ -1,0 +1,2 @@
+# wallet
+Wallet test otherlitecoin
